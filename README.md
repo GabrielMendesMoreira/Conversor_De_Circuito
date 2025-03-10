@@ -1,4 +1,4 @@
-#Conversor de Circuito Delta para Triângulo
+# Conversor de Circuito Delta para Triângulo
 Este aplicativo permite que o usuário insira os valores dos três resistores em um circuito delta e, em seguida, calcula os valores correspondentes dos três resistores para um circuito em configuração triângulo.
 
 Funcionalidades
